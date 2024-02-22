@@ -1,4 +1,5 @@
-.page_header{
+.page_header,
+.page_footer .copyright_section{
     background-color: #2C3E50;
 }
 
@@ -7,3 +8,6 @@
     background-color: #1ABC9C;
 }
 
+.page_footer .info_section{
+    background-color: #3A546D;
+}

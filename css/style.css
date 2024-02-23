@@ -12,6 +12,17 @@
     background-color: #3A546D;
 }
 
-.about_paragraph{
-    column-count: 2;
+
+.avatar_picture{
+    width: 250px;
+    height: 250px;
+}
+
+
+@media (min-width:768px){
+
+    .about_paragraph{
+        column-count: 2;
+    }
+
 }

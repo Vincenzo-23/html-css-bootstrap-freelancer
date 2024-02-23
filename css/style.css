@@ -11,3 +11,7 @@
 .page_footer .info_section{
     background-color: #3A546D;
 }
+
+.about_paragraph{
+    column-count: 2;
+}
